@@ -34,4 +34,8 @@ build/
 
 
 ### EVN Files ###
-.evn
+.env
+.env.example
+
+
+.
